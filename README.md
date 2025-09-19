@@ -9,8 +9,6 @@
 
 As the **AI Architect** for Bow Tied Cyber, I designed and deployed a comprehensive suite of 7 interconnected AI-powered tools that revolutionize how students learn cybersecurity, develop careers, and compete in the field. This isn't just a collection of chatbots—it's a carefully orchestrated educational ecosystem that guides students from first contact to career placement.
 
-<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Kitten" style="height: 60px !important;width: 217px !important;" ></a>
-
 ![System Architecture](https://img.shields.io/badge/AI%20Tools-7%20Integrated%20Systems-blue) ![Platform](https://img.shields.io/badge/Platform-ChatGPT%20GPT%20Builder-green) ![Focus](https://img.shields.io/badge/Focus-Career%20Outcomes-orange)
 
 ## 🏗️ System Architecture & Design Philosophy
@@ -210,3 +208,6 @@ I've created a model that other educational institutions and bootcamps can adapt
 **Contact**: Available for consulting on AI-powered educational systems and career development platforms.
 
 *"The future of education isn't about replacing human instruction—it's about amplifying human potential through intelligent, personalized AI assistance."*
+
+<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Kitten" style="height: 60px !important;width: 217px !important;" ></a>
+
