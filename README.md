@@ -15,9 +15,9 @@
 [![Conversion](https://img.shields.io/badge/Conversion-Optimized-success)](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem)
 [![PRCM](https://img.shields.io/badge/PRCM™-Labor%20System-purple)](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem)
 
-[![GitHub Stars](https://img.shields.io/github/stars/shadowdevnotreal/bowtied-cyber-ai?style=social)](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/shadowdevnotreal/bowtied-cyber-ai?style=social)](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem/network)
-[![GitHub Watchers](https://img.shields.io/github/watchers/shadowdevnotreal/bowtied-cyber-ai?style=social)](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystemi/watchers)
+[![GitHub Stars](https://img.shields.io/github/stars/shadowdevnotreal/bowtied-cyber-ai-ecosystem?style=social)](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shadowdevnotreal/bowtied-cyber-ai-ecosystem?style=social)](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem/network)
+[![GitHub Watchers](https://img.shields.io/github/watchers/shadowdevnotreal/bowtied-cyber-ai-ecosystem?style=social)](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystemi/watchers)
 
 **🔗 [AI Tools Suite] | 📚 [Documentation](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem/wiki) | 🎯 [Career System](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem#career-development) | 💬 [Community](https://github.com/shadowdevnotreal/bowtied-cyber-ai-ecosystem/discussions)**
 
