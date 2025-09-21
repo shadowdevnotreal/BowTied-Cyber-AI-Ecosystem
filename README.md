@@ -57,7 +57,7 @@ The challenge in traditional cybersecurity education:
 ## ✨ **The 8-Tool AI Ecosystem**
 
 ### 🔧 **Conversion & Intake Intelligence**
-<details>
+<details open>
 <summary><strong>0. BowTiedCyber Bootcamp Guide</strong> - High-conversion prospect qualification engine</summary>
 
 **Purpose**: Advanced conversion intelligence with funnel protection
@@ -75,7 +75,7 @@ The challenge in traditional cybersecurity education:
 
 </details>
 
-<details>
+<details open>
 <summary><strong>1. Hoodie One Stop</strong> - Smart intake coordinator and onboarding system</summary>
 
 **Purpose**: Intelligent first contact and personalized onboarding experience
@@ -93,7 +93,7 @@ The challenge in traditional cybersecurity education:
 </details>
 
 ### 🎯 **Career Development & Assessment**
-<details>
+<details open>
 <summary><strong>2. AI Career Navigator</strong> - Strategic career assessment and roadmap engine</summary>
 
 **Purpose**: Comprehensive career readiness evaluation with personalized development planning
@@ -110,7 +110,7 @@ The challenge in traditional cybersecurity education:
 
 </details>
 
-<details>
+<details open>
 <summary><strong>3. AI Trainer Tool</strong> - Interactive learning and AI mastery platform</summary>
 
 **Purpose**: Master the AI tools themselves through guided practice and skill development
@@ -128,7 +128,7 @@ The challenge in traditional cybersecurity education:
 </details>
 
 ### 🎭 **Interview Preparation & Practice**
-<details>
+<details open>
 <summary><strong>4. AI Recruiter</strong> - Advanced interview reality simulator</summary>
 
 **Purpose**: Authentic interview preparation that mirrors real-world scenarios
@@ -146,7 +146,7 @@ The challenge in traditional cybersecurity education:
 </details>
 
 ### 🤝 **Ongoing Career Support & Coaching**
-<details>
+<details open>
 <summary><strong>5. AI Career Assistant</strong> - 24/7 personal career development coach</summary>
 
 **Purpose**: Continuous career growth partnership with intelligent support
@@ -164,7 +164,7 @@ The challenge in traditional cybersecurity education:
 </details>
 
 ### 🧠 **Advanced AI Skills & Mastery**
-<details>
+<details open>
 <summary><strong>6. GPT Mentor</strong> - Prompt engineering mastery and AI communication</summary>
 
 **Purpose**: Advanced AI communication skills and prompt engineering expertise
@@ -182,7 +182,7 @@ The challenge in traditional cybersecurity education:
 </details>
 
 ### 🎮 **Practical Skills & Competitive Application**
-<details>
+<details open>
 <summary><strong>7. Cyber Gauntlet Bot</strong> - Gamified competition and skill validation arena</summary>
 
 **Purpose**: Practical skill application through competitive, measurable challenges
@@ -203,9 +203,6 @@ The challenge in traditional cybersecurity education:
 ---
 
 ## 🏗️ **Intelligent Ecosystem Architecture**
-
-<details>
-<summary><strong>Advanced AI Integration Design</strong> - Sophisticated tool interconnection and data flow</summary>
 
 ### 🔧 **Student Journey Architecture**
 ```mermaid
@@ -254,6 +251,8 @@ graph TD
     style G fill:#54a0ff
     style H fill:#5f27cd
 ```
+</details>
+
 
 ### 🔄 **Cross-Tool Intelligence Workflow**
 ```mermaid
@@ -283,6 +282,8 @@ sequenceDiagram
     Note over GM,CG: Advanced Skills
     Note over AR,CA: Career Placement
 ```
+
+</details>
 
 ### 🧠 **Ecosystem Intelligence Integration**
 ```mermaid
